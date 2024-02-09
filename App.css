@@ -1,0 +1,16 @@
+.main{
+    margin-left: 20px;
+}
+body{
+    background-color: #113946;
+}
+.surdeux{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    gap: 50px;
+    
+}
+.betoul{
+    display: grid;
+  
+}
