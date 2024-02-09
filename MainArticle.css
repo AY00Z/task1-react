@@ -1,0 +1,23 @@
+.container{
+    background-color: #BFB29E;
+    border: solid;
+    border-radius: 10px;
+  
+}
+.title{
+   margin-left: 300px;
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+    color: rgb(0, 0, 0);
+    gap: 30px;
+   
+}
+.div1 img {
+    margin-left: 40px;
+}
+.suite{
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+}

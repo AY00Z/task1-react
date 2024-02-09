@@ -1,0 +1,22 @@
+.tous{
+    background-color: #F1F0E8;
+    border: solid black;
+   width: 400px;
+   border-radius: 15px;
+}
+.main img{
+    height: 350px;
+    width:350px ;
+    margin-top: 20px;
+   
+}
+.btn{
+    border: solid black;
+    background-color: blanchedalmond;
+    align-items: center;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 120px;
+}
